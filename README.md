@@ -5,7 +5,7 @@ We developed BRemNet, a further refinement of [Mask R-CNN](https://github.com/ma
 
 | Result | Intermediate |
 | --- | --- |
-| <img src="images/result.gif" width="200"/> | <img src="images/2-acquisition.png" width="500"/> |
+| <img src="images/result.gif" width="200"/> | <img src="images/2-acquisition.png" width="700"/> |
 
 Segmentation examples: Mask R-CNN (left) and BRemNet (right). The segmented mask is superimposed in red to the actual frames. In Mask R-CNN, masks of other identified objects are superimposed in cyan. In masks, true positives are in white, false positives are in magenta, and false negatives are in green.
 
